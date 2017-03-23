@@ -1,0 +1,6 @@
+D:\Visual Studio\Проекты C#. Рузин С.Б. группа 3.1\BubbleThreadSort\BubbleThreadSort\bin\Debug\BubbleThreadSort.exe.config
+D:\Visual Studio\Проекты C#. Рузин С.Б. группа 3.1\BubbleThreadSort\BubbleThreadSort\bin\Debug\BubbleThreadSort.exe
+D:\Visual Studio\Проекты C#. Рузин С.Б. группа 3.1\BubbleThreadSort\BubbleThreadSort\bin\Debug\BubbleThreadSort.pdb
+D:\Visual Studio\Проекты C#. Рузин С.Б. группа 3.1\BubbleThreadSort\BubbleThreadSort\obj\Debug\BubbleThreadSort.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Проекты C#. Рузин С.Б. группа 3.1\BubbleThreadSort\BubbleThreadSort\obj\Debug\BubbleThreadSort.exe
+D:\Visual Studio\Проекты C#. Рузин С.Б. группа 3.1\BubbleThreadSort\BubbleThreadSort\obj\Debug\BubbleThreadSort.pdb
